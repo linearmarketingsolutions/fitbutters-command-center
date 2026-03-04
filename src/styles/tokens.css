@@ -1,0 +1,16 @@
+:root {
+  --color-navy: #1A1F5E;
+  --color-cream: #F5F0E8;
+  --color-white: #FFFFFF;
+  --color-red: #CC2222;
+  --color-red-muted: rgba(204, 34, 34, 0.15);
+  --color-navy-muted: rgba(26, 31, 94, 0.08);
+  --shadow-card: 0 4px 20px rgba(26, 31, 94, 0.06);
+  --shadow-card-hover: 0 8px 32px rgba(26, 31, 94, 0.1);
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --font-display: 'Alfa Slab One', serif;
+  --font-body: 'DM Sans', sans-serif;
+  --font-mono: 'DM Mono', monospace;
+}
